@@ -32,3 +32,5 @@ it can run any simple js code
 # we can also use a file to write js code and run with node
 
 - using VS Code
+
+check `app.js`
